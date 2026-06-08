@@ -1,10 +1,10 @@
-tensorflow==2.15.0
+tensorflow
 pandas
-numpy==1.26.4
+numpy
 scikit-learn
 matplotlib
 tensorboard
 streamlit
-scikeras==0.12.0
+scikeras
 jupyter
 ipykernel
